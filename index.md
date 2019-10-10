@@ -24,7 +24,7 @@ PhD students at Northwestern University, and to give this community a voice with
 ## Current Members:
 * Allen Yilun Lin (Human-Computer Interaction)
 * Ethan Manilow (Audio/Music Processing) 
-* Xijun Wang (Computational Photography)
+* Fengqiang Li (Computational Photography)
 * Can Gurkan (Agent-Based Modeling and AI)
 * Mike Lee (AI and Qualitative Reasoning)
 * Ettore M. G. Trainiti (Computer Architecture)
